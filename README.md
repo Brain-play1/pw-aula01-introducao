@@ -2,4 +2,4 @@
 
 fundamentos basicos do react JS
 
-Autor: Ralfe
+Autor: Leonardo
